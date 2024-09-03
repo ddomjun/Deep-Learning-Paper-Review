@@ -24,3 +24,7 @@ BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generatio
 Learning Transferable Visual Models From Natural Language Supervision (CLIP)
 
 [Original Paper Link](https://arxiv.org/abs/2103.00020) | [Notion](https://careful-shape-b2c.notion.site/Learning-Transferable-Visual-Models-From-Natural-Language-Supervision-0d4262a505814a51b2ce39abfa0ba238?pvs=4)
+
+CAT-Seg: Cost Aggregation for Open-Vocabulary Semantic Segmentation
+
+[Original Paper Link](https://arxiv.org/abs/2303.11797) | [Notion](https://careful-shape-b2c.notion.site/CAT-Seg-Cost-Aggregation-for-Open-Vocabulary-Semantic-Segmentation-350ff7fbee444baeae790f8ccc4a7603?pvs=4)
